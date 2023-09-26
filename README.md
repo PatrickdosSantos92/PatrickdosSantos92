@@ -5,7 +5,7 @@ Atualmente Estudando desenvolvimento de software ma [@cubosacademy](https://cubo
 ## 📞 Contato: 
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-dos-santos-ceriaco/)
 
-<a href="mailto:Patrick.snts@gmail.com >Me envie um email</a>
+<a href="mailto:Patrick.snts@gmail.com" >Me envie um email</a>
 
 ## 🚨 Hard skills :
 
